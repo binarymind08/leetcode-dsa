@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Loading-08/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Loading-08/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
