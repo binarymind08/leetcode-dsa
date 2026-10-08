@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Loading-08/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
