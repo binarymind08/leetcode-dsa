@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3903-smallest-stable-index-i](https://github.com/Loading-08/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Loading-08/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
