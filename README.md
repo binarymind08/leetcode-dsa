@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3866-first-unique-even-element](https://github.com/Loading-08/leetcode-dsa/tree/master/3866-first-unique-even-element) |
 | [3903-smallest-stable-index-i](https://github.com/Loading-08/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Loading-08/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3866-first-unique-even-element](https://github.com/Loading-08/leetcode-dsa/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Loading-08/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Loading-08/leetcode-dsa/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
