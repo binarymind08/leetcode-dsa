@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Loading-08/leetcode-dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
+| [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Loading-08/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
