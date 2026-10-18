@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/Loading-08/leetcode-dsa/tree/master/3866-first-unique-even-element) |
+| [3895-count-digit-appearances](https://github.com/Loading-08/leetcode-dsa/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Loading-08/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
+| [3895-count-digit-appearances](https://github.com/Loading-08/leetcode-dsa/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
