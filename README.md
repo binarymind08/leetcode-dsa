@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3866-first-unique-even-element](https://github.com/Loading-08/leetcode-dsa/tree/master/3866-first-unique-even-element) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/Loading-08/leetcode-dsa/tree/master/3866-first-unique-even-element) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
