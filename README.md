@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Loading-08/leetcode-dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Loading-08/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
