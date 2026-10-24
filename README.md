@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Loading-08/leetcode-dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
 | [3895-count-digit-appearances](https://github.com/Loading-08/leetcode-dsa/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
