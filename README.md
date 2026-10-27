@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [3895-count-digit-appearances](https://github.com/Loading-08/leetcode-dsa/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loading-08/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
