@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Loading-08/leetcode-dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Loading-08/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loading-08/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Loading-08/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
@@ -147,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
