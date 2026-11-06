@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Loading-08/leetcode-dsa/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Memoization
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
