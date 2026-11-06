@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Loading-08/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Loading-08/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Loading-08/leetcode-dsa/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Loading-08/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Loading-08/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Loading-08/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Loading-08/leetcode-dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
