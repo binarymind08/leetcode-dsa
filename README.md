@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Loading-08/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Loading-08/leetcode-dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [3895-count-digit-appearances](https://github.com/Loading-08/leetcode-dsa/tree/master/3895-count-digit-appearances) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Loading-08/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Loading-08/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Loading-08/leetcode-dsa/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
