@@ -4,7 +4,7 @@ public:
         int maxReach = 0;
         
         for (int i = 0; i < nums.size(); i++) {
-            if (i > maxReach) return false;   // can't reach this index
+            if (i > maxReach) return false;  
             maxReach = max(maxReach, i + nums[i]);
         }
         
