@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Loading-08/leetcode-dsa/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0065-valid-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
