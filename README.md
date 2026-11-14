@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Loading-08/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0065-valid-number) |
+| [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Loading-08/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Loading-08/leetcode-dsa/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Loading-08/leetcode-dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
