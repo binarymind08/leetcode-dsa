@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Loading-08/leetcode-dsa/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Loading-08/leetcode-dsa/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [3895-count-digit-appearances](https://github.com/Loading-08/leetcode-dsa/tree/master/3895-count-digit-appearances) |
 ## Recursion
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Loading-08/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Loading-08/leetcode-dsa/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Loading-08/leetcode-dsa/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Loading-08/leetcode-dsa/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Loading-08/leetcode-dsa/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Memoization
 |  |
