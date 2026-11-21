@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Loading-08/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Loading-08/leetcode-dsa/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Loading-08/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Loading-08/leetcode-dsa/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Loading-08/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Loading-08/leetcode-dsa/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Loading-08/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Loading-08/leetcode-dsa/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 ## Manacher
