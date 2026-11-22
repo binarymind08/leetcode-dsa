@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Loading-08/leetcode-dsa/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Loading-08/leetcode-dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Loading-08/leetcode-dsa/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Loading-08/leetcode-dsa/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Loading-08/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Loading-08/leetcode-dsa/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Loading-08/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Loading-08/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Loading-08/leetcode-dsa/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Loading-08/leetcode-dsa/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
