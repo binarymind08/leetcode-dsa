@@ -14,7 +14,6 @@ public:
                 row[j] = ans[i-1][j-1] + ans[i-1][j];
 
             }
-
             ans.push_back(row);
         }
 
