@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Loading-08/leetcode-dsa/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Loading-08/leetcode-dsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Loading-08/leetcode-dsa/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Loading-08/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Loading-08/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Loading-08/leetcode-dsa/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Loading-08/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Loading-08/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Loading-08/leetcode-dsa/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Loading-08/leetcode-dsa/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Loading-08/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Loading-08/leetcode-dsa/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
